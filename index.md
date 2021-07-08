@@ -1,1 +1,1 @@
-## First workshop on composable systems
+## First Workshop on Composable Systems (COMPSYS '21)
