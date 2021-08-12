@@ -1,6 +1,6 @@
 # First Workshop on Composable Systems (COMPSYS '22)
 
-##Committee
+## Committee
 
 
 ### Workshop organizers
@@ -13,6 +13,6 @@
 
 **TBA**
 
-###Program committee
+### Program committee
 
 **TBA**
