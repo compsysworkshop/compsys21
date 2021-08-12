@@ -17,4 +17,5 @@ Papers are solicited from the areas, including, but not limited to:
 - Software Architectures for composable systems
 
 ### Submission information:
-Manuscripts should be anonymized for double-blind review.•Papers are subject to a maximum length of 6 pages including figures and references.•Submissions should follow the same formatting rules of the MICRO conference template.
+
+Coming soon!
