@@ -6,7 +6,7 @@
 ### Workshop organizers
 
 - Christian Pinto (IBM Research Europe, Ireland)
-- Felix Eberhardt (Hasso-Plattner Institute, Germany)
+- Felix Eberhardt (Hasso Plattner Institute, University of Potsdam, Germany)
 - Sergey Blagodurov (AMD, USA)
 
 ### Program Chair

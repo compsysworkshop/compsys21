@@ -1,7 +1,7 @@
 # First Workshop on Composable Systems (COMPSYS '22)
 
 ## Call for Papers
-Papers aresolicited from the areas, including, but not limited to:
+Papers are solicited from the areas, including, but not limited to:
 - Hardware and emerging storage technologies
 	- Hardware architectures for composability
 	- Power, energy, and thermal management for composable systems
