@@ -21,4 +21,6 @@ Papers are solicited from the areas, including, but not limited to:
 
 ### Submission information:
 
-Coming soon!
+Each manuscript will be evaluated with a boulde-blinded review process. Authors must omit at submission time their names or any information that can disclose their identity.
+Manuscripts must not exceed 8 single-spaced, double-column pages using 10-point font on 8.5 x 11 inch pages (IEEE conference style) including references, figures and tables. Submitted papers should not have appeared in or be under consideration for another workshop, conference or journal. It is also expected that all accepted papers will be presented at the workshop by one of the authors.
+Papers are to be submitted via EasyChair (link TBA).
