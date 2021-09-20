@@ -9,10 +9,10 @@
 - Sergey Blagodurov (AMD, USA)
 
 ### Publicity Chair
-- Max Plauth (Hasso Plattner Institute, Germany)
+- Max Plauth (Hasso Plattner Institute, University of Potsdam, Germany)
 
 ### Web Chair
-- Andreas Grapentin (Hasso Plattner Institute, Germany)
+- Andreas Grapentin (Hasso Plattner Institute, University of Potsdam, Germany)
 
 ### Program Chair
 
