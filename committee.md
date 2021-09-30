@@ -16,7 +16,7 @@
 
 ### Program Chair
 
-**TBA**
+- Thaleia Dimitra Doudali (Assistant Research Professor at IMDEA Software Institute, Spain)
 
 ### Program committee
 
