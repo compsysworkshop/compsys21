@@ -20,4 +20,17 @@
 
 ### Program committee
 
-**TBA**
+- Claudia Misale (IBM Research)
+- Jana Traue (Cyberus Technology GmbH, Germany)
+- Kazuichi Oe (National Institute of Informatics NII, Japan)
+- Timo Höning (Ruhr Bochum University, Germany)
+- Peter Tröger (Beuth University, Germany)
+- Jörg Nolte (BTU Cottbus, Germany)
+- Vamsee Reddy Kommareddy (AMD)
+- Sudhanva Gurumurthi (AMD)
+- Xiaoyi Lu (UC Merced)
+- Irina Calciu (VMWare Research)
+- Jayashree Mohan (Microsoft Research India)
+- Alexey Lastovetsky (University College Dublin, Ireland)
+- Kile Hale (Illinois Institute of Technology IIT, USA)
+- Onkar Patil (IBM Research)
