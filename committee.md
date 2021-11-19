@@ -32,5 +32,5 @@
 - Irina Calciu (VMWare Research)
 - Jayashree Mohan (Microsoft Research India)
 - Alexey Lastovetsky (University College Dublin, Ireland)
-- Kile Hale (Illinois Institute of Technology IIT, USA)
+- Kyle Hale (Illinois Institute of Technology IIT, USA)
 - Onkar Patil (IBM Research)
