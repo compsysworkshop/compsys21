@@ -25,3 +25,5 @@ Each manuscript will be evaluated with a double-blinded review process. Authors 
 Manuscripts must not exceed 6 single-spaced, double-column pages using 10-point font on 8.5 x 11 inch pages (IEEE conference style) including figures and tables, but excluding references. Submitted papers should not have appeared in or be under consideration for another workshop, conference or journal. It is also expected that all accepted papers will be presented at the workshop by one of the authors. To honor exceptional contributions to the workshop, the authors of one paper will receive a Best Paper award, and additionally the best presentation will receive a Best Presentation award.
 
 Papers are to be submitted via the [IPDPS LinkLings](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=COMPSYSWorkshopFullSubmission&site=ipdps2022).
+
+Proceedings of the workshops are distributed at the conference and are submitted for inclusion in the IEEE Xplore Digital Library after the conference.
