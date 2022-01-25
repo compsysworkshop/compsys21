@@ -4,7 +4,7 @@
 
 ### Keynote:
 
-<img align="right" width="120" src="/speakers/PaulCarpenter.jpeg">
+<img align="right" width="120" src="/compsys22/speakers/PaulCarpenter.jpeg">
 
 **Composability at the Boundary Between HPC and Cloud**  
 *Paul Carpenter*
