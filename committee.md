@@ -34,3 +34,4 @@
 - Alexey Lastovetsky (University College Dublin, Ireland)
 - Kyle Hale (Illinois Institute of Technology IIT, USA)
 - Onkar Patil (IBM Research)
+- Vassilis Vassiliadis (IBM Research Europe)
