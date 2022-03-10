@@ -22,12 +22,12 @@ Paul Carpenter is Senior Researcher and Ramon y Cajal fellow at Barcelona Superc
 **Composable Infrastructures for an Academic Research Environment: Lessons Learned**  
 *Lance Long (University Illinois at Chicago), Timothy Bargo (University Illinois at Chicago), Luc Renambot (University Illinois at Chicago), Maxine Brown (University Illinois at Chicago), Andrew E. Johnson (University Illinois at Chicago)*
 
-Moving from Composable to Programmable**  
+**Moving from Composable to Programmable**  
 *Zhongyi Chen (University Illinois at Chicago), Luc Renambot (University Illinois at Chicago), Lance Long (University Illinois at Chicago), Maxine Brown (University Illinois at Chicago), Andrew E. Johnson (University Illinois at Chicago)*
 
-Evaluating hardware memory disaggregation under delay and contention**  
+**Evaluating hardware memory disaggregation under delay and contention**  
 *Archit Patke (UIUC), Haoran Qiu (UIUC), Saurabh Jha (IBM Research), Srikumar Venugopal (IBM Research), Michele Gazzetti (IBM Research), Christian Pinto (IBM Research), Zbigniew Kalbarczyk (UIUC), Ravishankar Iyer (UIUC)*
 
-Memory-Disaggregated In-Memory Object Store Framework for Big Data Applications**  
+**Memory-Disaggregated In-Memory Object Store Framework for Big Data Applications**  
 *Robin Abrahamse (Delft University of Technology), Akos Hadnagy (Delft University of Technology), Zaid Al-Ars (Delft University of Technology)*
 
