@@ -36,5 +36,5 @@ Paul Carpenter is Senior Researcher and Ramon y Cajal fellow at Barcelona Superc
 |---
 | 18:45&nbsp;--&nbsp;19:00 | **Break**
 |---
-| 19:00&nbsp;--&nbsp;19:45 | Panel Discussion on Current Trends in Composability
+| 19:00&nbsp;--&nbsp;19:45 | Panel Discussion on Current Trends in Composability<br/>[List of Panelists](panelists.md)
 |---
