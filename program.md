@@ -17,8 +17,10 @@ Paul Carpenter is Senior Researcher and Ramon y Cajal fellow at Barcelona Superc
 
 | 
 |---
-| 16:00&nbsp;--&nbsp;16:05 | **Opening Remarks - Awards Announcement**
-| 16:05&nbsp;--&nbsp;17:00 | **Keynote:**<br/> Composability at the Boundary Between HPC and Cloud<br/>*Paul Carpenter (BSC)*
+| 15:45&nbsp;--&nbsp;16:00 | **Opening Remarks - Awards Announcement**
+| 16:00&nbsp;--&nbsp;16:45 | **Keynote:**<br/> Composability at the Boundary Between HPC and Cloud<br/>*Paul Carpenter (BSC)*
+|---
+| 16:45&nbsp;--&nbsp;17:00 | **Break**
 |---
 | **Session 1**
 | 17:00&nbsp;--&nbsp;17:15 | **Quantifying Composable Data Center Utilization**<br/>*Marc Taubenblatt (IBM Thomas J. Watson Research Center), Asser Tantawi (IBM Thomas J. Watson Research Center)*
