@@ -64,3 +64,28 @@ regularly serves on the program and organizing committees of major computer
 architecture conferences and has served as an editor for IEEE Micro Top Picks,
 IEEE Computer Architecture Letters, and IEEE Transactions on Computers. He
 received his PhD in Computer Science and Engineering from Penn State in 2005.
+
+
+<img align="right" width="120" src="/compsys22/panelists/CharlesJohns.jpeg">
+
+**Charles Johns**
+*IBM*
+
+Charles Johns is a STSM in the IBM Research. Mr. Johns received his B.S. degree
+in Electrical Engineering from the University of Texas at Austin in 1984. After
+joining IBM Austin in 1984, Mr. Johns worked on various disk, memory, voice
+communication, and graphics adapters for the IBM Personal Computer. From 1988
+until 2000, he was part of the Graphics Organization and was responsible for the
+architecture and development of entry and midrange 3-D graphics adapters and
+GPUs. From 2000 to 2010, Mr. Johns was part of the STI Project responsible for
+the Cell Broadband Engine Architecture (CBEA) and participated in the
+development of the Cell Broadband Engine (CBE; the first implementation of the
+CBEA). After the Cell program, Mr. Johns worked on various High-Performance
+Computing and Cloud Computing solutions. Mr. Johns was the primary architect of
+the Coherent Accelerator Processor Interface (CAPI) for the POWER processors.
+Mr. Johns is currently working on Future of Computing system architectures. He
+has a broad knowledge of system and chip design, and the ability to lead diverse
+teams in the development of advanced computer systems. He is an IBM Master
+Inventor with over 100 patents.
+
+
