@@ -13,7 +13,7 @@ Paul Carpenter is Senior Researcher and Ramon y Cajal fellow at Barcelona Superc
 
 ### Workshop Program:
 
-(all times in CEST)
+(all times in CEST) [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MXZibmVjZWFzZjE3Z2hhaGs4cGV1cTJvNGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 | 
 |---
@@ -39,4 +39,4 @@ Paul Carpenter is Senior Researcher and Ramon y Cajal fellow at Barcelona Superc
 | 19:00&nbsp;--&nbsp;19:45 | **Panel Discussion on Current Trends in Composability**<br/>*Paul Carpenter, Sudhanva Gurumurthi, Allan Cantle, Charles Johns*<br/>[(Panelists Information)](panelists.md)
 |---
 
-[Google Calendar](https://calendar.google.com/calendar/u/0?cid=MXZibmVjZWFzZjE3Z2hhaGs4cGV1cTJvNGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
