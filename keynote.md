@@ -1,6 +1,6 @@
 # First Workshop on Composable Systems (COMPSYS '22)
 
-### Keynote on Composability at the Boundary Between HPC and Cloud
+### Keynote Information
 
 <img align="right" width="120" src="/compsys22/speakers/PaulCarpenter.jpeg">
 
