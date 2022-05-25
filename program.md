@@ -1,16 +1,5 @@
 # First Workshop on Composable Systems (COMPSYS '22)
 
-## Program
-
-### Keynote:
-
-<img align="right" width="120" src="/compsys22/speakers/PaulCarpenter.jpeg">
-
-**Composability at the Boundary Between HPC and Cloud**  
-*Paul Carpenter*
-
-Paul Carpenter is Senior Researcher and Ramon y Cajal fellow at Barcelona Supercomputing Center (BSC), where he is Principal Investigator for the EuroEXA and ExaNoDe projects. He graduated in BA Mathematics (1997) and Diploma in Computer Science (1998) from the University of Cambridge, and received his PhD in computer architecture from the Technical University of Catalonia in 2011. Prior to starting his PhD, he was Senior Software Engineer at ARM in Cambridge, UK, where he was technical lead for audio/video codec development. As independent consultant to ARM he was part of the small team that designed the ARM Advanced SIMD (NEON) vector ISA. He is Software Technical Manager for EuroEXA, co-chair of ETP4HPC’s Working Group on Programming Environment and was co-editor of the EuroLab-4-HPC Long-Term Vision on High-Performance Computing. His primary research interests are resource management, performance-portable parallel programming models and runtime systems.
-
 ### Workshop Program:
 
 (all times in CEST) [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MXZibmVjZWFzZjE3Z2hhaGs4cGV1cTJvNGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
@@ -18,7 +7,7 @@ Paul Carpenter is Senior Researcher and Ramon y Cajal fellow at Barcelona Superc
 | 
 |---
 | 15:45&nbsp;--&nbsp;16:00 | **Opening Remarks - Awards Announcement**
-| 16:00&nbsp;--&nbsp;16:45 | **Keynote:**<br/> Composability at the Boundary Between HPC and Cloud<br/>*Paul Carpenter (BSC)*
+| 16:00&nbsp;--&nbsp;16:45 | **Keynote:**<br/>Composability at the Boundary Between HPC and Cloud<br/>*Paul Carpenter (BSC)*<br/>[(Keynote Information)](keynote.md)
 |---
 | 16:45&nbsp;--&nbsp;17:00 | **Break**
 |---

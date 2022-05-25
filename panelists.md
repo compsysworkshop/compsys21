@@ -1,8 +1,6 @@
 # First Workshop on Composable Systems (COMPSYS '22)
 
-## Panel Discussion on Current Trends in Composability
-
-### List of Panelists
+### Panel Discussion on Current Trends in Composability
 
 <img align="right" width="120" src="/compsys22/speakers/PaulCarpenter.jpeg">
 
