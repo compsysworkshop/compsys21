@@ -7,7 +7,7 @@
 | 
 |---
 | 15:45&nbsp;--&nbsp;16:00 | **Opening Remarks - Awards Announcement**
-| 16:00&nbsp;--&nbsp;16:45 | **Keynote:**<br/>Composability at the Boundary Between HPC and Cloud<br/>*Paul Carpenter (BSC)*<br/>[(Keynote Information)](keynote.md)
+| 16:00&nbsp;--&nbsp;16:45 | **Keynote:**<br/>Composability at the Boundary Between HPC and Cloud<br/>*Paul Carpenter (BSC)*<br/>([Keynote Information](keynote.md) - [slides](/compsys22/assets/material/20220603_COMPSYS_Carpenter.pdf))
 |---
 | 16:45&nbsp;--&nbsp;17:00 | **Break**
 |---
