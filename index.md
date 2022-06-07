@@ -5,4 +5,4 @@ The future of computing systems is inevitably embracing a disaggregated and comp
 
 Attendance to this workshop is included with the IPDPS 2022 registration. ~~Register [here](https://www.ipdps.org/ipdps2022/2022-registration.html).~~ Registration is closed.
 
-**The First Workshop on Composable System (COMPSYS) held tandem with the International Parallel and Distributed Processing Symposium (IPDPS) 2022 has concluded. We would like to thank all authors, attendees and organizers for the successful workshop.**
+**The First Workshop on Composable System (COMPSYS) held in tandem with the International Parallel and Distributed Processing Symposium (IPDPS) 2022 has concluded. We would like to thank all authors, attendees and organizers for the successful workshop.**
